@@ -9,7 +9,7 @@ Output
    simple interest = p*t*r
 
 # Embark on a journey to financial clarity with our Simple Interest Calculator
-an elegant tool designed to demystify
+An elegant tool designed to demystify
  the earnings on your investments or the 
 interest due on loans with unparalleled simplicity. 
 At its core, this calculator embodies the essence of user-friendly 
@@ -24,8 +24,8 @@ Interest calculated purely on the initial principal,
 which remains a cornerstone of financial computations. 
 
 # With just a few clicks..
-you unlock a vista of numerical insights, 
+You unlock a vista of numerical insights, 
 providing a clear picture of potential growth or obligations over 
 the duration of your financial engagements. 
 # Our Simple Interest Calculator doesn't just give you numbers; 
-it bestows peace of mind and a command over your fiscal planning.
+It bestows peace of mind and a command over your fiscal planning.
